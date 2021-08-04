@@ -13,7 +13,7 @@
     <groupId>sorbie.jon</groupId>
     <artifactId>spring-rabbitmq-batch-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
+    <name>Spring RabbitMQ Batch Demo</name>
     <description>Proof of concept for a spring batch app that runs a batch job each time a RabbitMQ message is consumed.</description>
 
     <properties>
